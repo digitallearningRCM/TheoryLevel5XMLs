@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<activities>
+    <activity icon="planet-scales" title="WRITE THE MAJOR SCALE" description="Drag the notes to the correct pitch; tap the notes to add accidentals, then click ✓." />
+    <activity icon="planet-scales" title="WRITE THE NATURAL MINOR SCALE" description="Drag the provided notes to the correct pitch; tap the notes to add accidentals. " />
+    <activity icon="planet-scales" title="WRITE THE HARMONIC MINOR SCALE" description="Drag the provided notes to the correct pitch; tap the notes to add accidentals. " />
+    <activity icon="planet-scales" title="WRITE THE MELODIC MINOR SCALE" description="Drag the provided notes to the correct pitch; tap the notes to add accidentals. " />
+    <activity icon="planet-scales" title="IDENTIFY THE KEY SIGNATURE" description="Select your answer from the picker below." />
+    <activity icon="planet-scales" title="IDENTIFY THE SCALE DEGREE IN MAJOR KEYS" description="Select your answer from the picker below." />
+    <activity icon="planet-scales" title="IDENTIFY THE SCALE DEGREE IN MINOR KEYS" description="Select your answer from the picker below." />
+</activities>
