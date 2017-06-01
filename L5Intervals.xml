@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<activities>
+    <activity icon="planet-intervals" title="CHROMATIC AND DIATONIC HALF STEP" description="Drag the notes to the correct pitch, then click ✓." />
+    <activity icon="planet-intervals" title="MAJOR, MINOR AND PERFECT INTERVALS (PICKER)" description="Select your answer from the picker below." />
+    <activity icon="planet-intervals" title="MAJOR, MINOR AND PERFECT INTERVALS (STAFF)" description="Drag the note to the correct pitch, tap to add accidentals, then click ✓." />
+</activities>
