@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+    <question file="tempPic" answer1="2" answer2="4" />
+    <question file="tempPic2" answer1="4" answer2="4" />
+    <question file="Q2" answer1="3" answer2="4" />
+</questions>
