@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <activities>
-    <activity icon="planet-rhythm" title="Rests in simple and compound meters ($Q$ $Z$ $A$ $W$ $X$ $S$ $E$ $F$ $D$ $R$ ) " description="Select the option of equal value." xml="MCQGraphic-test" />
+    <activity icon="planet-rhythm" title="Rests in simple and compound meters ( $Q$ $Z$ $A$ $W$ $X$ $S$ $E$ $F$ $D$ $R$ ) " description="Select the option of equal value." xml="MCQGraphic-test" />
     <activity icon="planet-rhythm" title="text - text MCQ" description="Select the option of equal value." xml="MCQText-test" />
     <activity icon="planet-rhythm" title="graphic - graphic MCQ" description="Select the option of equal value." xml="MCQ-graphic-graphic" />
     <activity icon="planet-rhythm" title="graphic - text - mixed MCQ" description="Select the option of equal value." xml="MCQ-mixed" />
