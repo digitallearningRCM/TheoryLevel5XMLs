@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<activities>
+    <activity icon="planet-terms" title="graphic - text - mixed MCQ" description="Select the option of equal value." xml="MCQ-mixed" />
+    <activity icon="planet-terms" title="more MCQ" description="Select the option of equal value." xml="MCQ-mixed" />
+</activities>

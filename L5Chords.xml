@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<activities>
+    <activity icon="planet-chords" title="PRIMARY TRIADS AND DOMINANT SEVENTHS (PICKER)" description="Compose your answer using the picker below." />
+    <activity icon="planet-chords" title="PRIMARY TRIADS AND DOMINANT SEVENTHS (STAFF)" description="Drag the notes to the correct pitch, tap to add accidentals, then click ✓." />
+    <activity icon="planet-chords" title="FUNCTIONAL CHORD SYMBOLS" description="Compose your answer using the picker below." />
+    <activity icon="planet-chords" title="ROOT/QUALITY CHORD SYMBOLS" description="Compose your answer using the picker below." />
+    <activity icon="planet-chords" title="TRIAD INVERSIONS (PICKER)" description="Compose your answer using the picker below." />
+   <activity icon="planet-chords" title="TRIAD INVERSIONS (STAFF)" description="Drag the notes to the correct pitch, tap to add accidentals, then click ✓." />
+</activities>
