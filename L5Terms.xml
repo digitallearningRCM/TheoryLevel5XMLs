@@ -2,5 +2,5 @@
 
 <activities>
     <activity icon="planet-terms" title="graphic - text - mixed MCQ" description="Select the option of equal value." xml="MCQ-mixed" />
-    <activity icon="planet-terms" title="more MCQ" description="Select the option of equal value."L5_U8_A0" />
+    <activity icon="planet-terms" title="more MCQ" description="Select the option of equal value." xml="L5_U8_A0" />
 </activities>
