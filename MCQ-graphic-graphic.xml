@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <category type="graphicGraphic" question="Identify the option of equal value." image="Q1">
+        <question image="option1" answer="false" />
+        <question image="option2" answer="true" />
+        <question image="option3" answer="false" />
+        <question image="option4" answer="false" />
+        <question image="option5" answer="false" />
+        <question image="option6" answer="false" />
+        
+    </category>
+    <category type="graphicGraphic" question="Choose the correct sign" image="sign_commontime">
+        <question image="sign_breathmark" answer="false" />
+        <question image="sign_commontime" answer="true" />
+    </category>
+</questions>

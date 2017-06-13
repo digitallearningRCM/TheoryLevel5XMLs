@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <category type="graphicGraphic" question="Choose the correct sign" image="sign_breathmark">
+        <question image="sign_breathmark" answer="true" />
+        <question image="sign_commontime" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Choose the correct sign" image="sign_commontime">
+        <question image="sign_breathmark" answer="false" />
+        <question image="sign_commontime" answer="true" />
+    </category>
+    <category type="graphic" question="Choose the DESCRIPTION of a given sign">
+        <question image="sign_breathmark" answer="take a breath, and/or a slight pause or lift" />
+        <question image="sign_commontime" answer="a symbol for 4/4" />
+        <question image="sign_cuttime" answer="a symbol for 2/2" />
+        <question image="sign_downbow" answer="on a bowed string instrument, play the note while drawing the bow downward" />
+    </category>
+    
+    <category type="graphic" question="Choose the NAME of a given sign">
+        <question image="sign_breathmark" answer="breath mark" />
+        <question image="sign_commontime" answer="common time" />
+        <question image="sign_cuttime" answer="cut time" />
+        <question image="sign_downbow" answer="down bow" />
+    </category>
+
+    <category type="text" question="Select the corresponding description.">
+        <question title="cantabile" answer="in a singing style" />
+        <question title="dolce" answer="sweet, gentle" />
+        <question title="grazioso" answer="graceful" />
+        <question title="legato" answer="smooth" />
+        <question title="maestoso" answer="majestic" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="larghetto" answer="fairly slow but not as slow as largo" />
+        <question title="largo" answer="very slow" />
+        <question title="moderato" answer="at a moderate tempo" />
+        <question title="prestissimo" answer="as fast as possible" />
+        <question title="presto" answer="very fast" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="accent" answer="a stressed note" />
+        <question title="marcato" answer="marked or stressed" />
+        <question title="molto" answer="much, very" />
+        <question title="poco" answer="little" />
+        <question title="staccato" answer="detached" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="da capo" answer="from the beginning" />
+        <question title="dal segno" answer="from the sign" />
+        <question title="D.C. al Fine" answer="repeat from the beginning and end at Fine" />
+        <question title="tempo" answer="speed at which the music is performed" />
+        <question title="Tempo primo (Tempo I)" answer="detached" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="crescendo" answer="becoming louder" />
+        <question title="decrescendo or diminuendo" answer="becoming softer" />
+        <question title="fine" answer="the end" />
+    </category>
+</questions>

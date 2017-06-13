@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <category type="text" question="Choose the description of a given note">
+        <question title="whole note" answer="whole length of of a whole note" />
+        <question title="half note" answer="half of a whole note" />
+        <question title="eighth note" answer="one eighth of a whole note" />
+        <question title="quarter" answer="one quarter of a whole note" />
+    </category>
+    <category type="text" question="Select the corresponding relative minor scale.">
+        <question title="C major" answer="A minor" />
+        <question title="F major" answer="D minor" />
+        <question title="G major" answer="E minor" />
+        <question title="D major" answer="B minor" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="forte" answer="loud" />
+        <question title="fortissimo" answer="very loud" />
+        <question title="mezzo forte" answer="moderately loud" />
+        <question title="mezzo piano" answer="moderately soft" />
+        <question title="piano" answer="soft" />
+        <question title="pianissimo" answer="very soft" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="cantabile" answer="in a singing style" />
+        <question title="dolce" answer="sweet, gentle" />
+        <question title="grazioso" answer="graceful" />
+        <question title="legato" answer="smooth" />
+        <question title="maestoso" answer="majestic" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="rubato" answer="with some freedom of tempo to enhance musical expression" />
+        <question title="spiritoso" answer="spirited" />
+        <question title="tranquillo" answer="quiet, tranquil" />
+        <question title="vivace" answer="lively, brisk" />
+        <question title="espressivo" answer="expressive, with expression" />
+        <question title="leggiero" answer="light, nimble, quick" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="accelerando" answer="becoming quicker" />
+        <question title="a tempo" answer="return to the original tempo" />
+        <question title="ritardando" answer="slowing down gradually" />
+        <question title="rallentando" answer="slowing down" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="adagio" answer="slow" />
+        <question title="allegro" answer="fast" />
+        <question title="allegretto" answer="fairly fast (a little slower than allegro)" />
+        <question title="andante" answer="moderately slow; at a walking pace" />
+        <question title="andantino" answer="a little faster than andante" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="larghetto" answer="fairly slow but not as slow as largo" />
+        <question title="largo" answer="very slow" />
+        <question title="moderato" answer="at a moderate tempo" />
+        <question title="prestissimo" answer="as fast as possible" />
+        <question title="presto" answer="very fast" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="accent" answer="a stressed note" />
+        <question title="marcato" answer="marked or stressed" />
+        <question title="molto" answer="much, very" />
+        <question title="poco" answer="little" />
+        <question title="staccato" answer="detached" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="da capo" answer="from the beginning" />
+        <question title="dal segno" answer="from the sign" />
+        <question title="D.C. al Fine" answer="repeat from the beginning and end at Fine" />
+        <question title="tempo" answer="speed at which the music is performed" />
+        <question title="Tempo primo (Tempo I)" answer="detached" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="crescendo" answer="becoming louder" />
+        <question title="decrescendo or diminuendo" answer="becoming softer" />
+        <question title="fine" answer="the end" />
+    </category>
+    <category type="text" question="Select the corresponding description.">
+        <question title="mano destra, m.d." answer="right hand" />
+        <question title="mano sinistra, m.s." answer="left hand softer" />
+        <question title="fine" answer="the end" />
+        <question title="ottava" answer="the interval of an octave" />
+        <question title="pedale" answer="pedal softer" />
+    </category>
+</questions>
