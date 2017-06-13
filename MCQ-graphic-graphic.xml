@@ -17,4 +17,8 @@
         <question image="Artboard6" answer="false" />
         <question image="Artboard7" answer="true" />
     </category>
+    <category type="graphicGraphic" question="Choose the correct graphic" image="Artboard8">
+        <question image="Artboard9" answer="false" />
+        <question image="Artboard10" answer="true" />
+    </category>
 </questions>
