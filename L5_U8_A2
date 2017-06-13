@@ -19,7 +19,7 @@
         <question title="Moderato" answer="Moderate tempo" />
         <question title="Legato" answer="Smooth" />
     </category>  
-    <category type="text" question=SSelect the description of the term.">
+    <category type="text" question="Select the description of the term.">
         <question title="Ritardando (rit.)" answer="Gradually slow down" />
         <question title="Tempo" answer="Speed of playing" />
         <question title="A tempo" answer="Return to original tempo" />
