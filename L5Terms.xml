@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <activities>
-    <activity icon="planet-terms" title="graphic - text - mixed MCQ" description="Select the option of equal value." xml="MCQ-mixed" />
-    <activity icon="planet-terms" title="more MCQ" description="Select the option of equal value." xml="L5_U8_A0" />
+    <activity icon="planet-terms" title="New terms and signs" description="Tap the card of your choice." xml="L5_U8_A0" />
+    <activity icon="planet-terms" title="Terms and signs (part 1)" description="Tap the card of your choice." xml="L5_U8_A1" />
+    <activity icon="planet-terms" title="Terms and signs (part 2)" description="Tap the card of your choice." xml="L5_U8_A2" />
+    <activity icon="planet-terms" title="Terms and signs (part 3)" description="Tap the card of your choice." xml="L5_U8_A3" />
 </activities>
