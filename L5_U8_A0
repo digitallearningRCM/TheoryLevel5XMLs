@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+     <category type="text" question="Select the matching card.">
+        <question title="Larghetto" answer="Fairly slow but not as slow as largo" />
+        <question title="Largo" answer="Very slow" />
+        <question title="Leggiero" answer="Light, nimble, quick" />
+        <question title="Andantino" answer="A little faster than andante" />
+    </category>
+    <category type="text" question="Select the matching card.">
+        <question title="Spiritoso" answer="Spirited" />
+        <question title="Tranquillo" answer="Quiet, tranquil" />
+        <question title="Espressivo" answer="Expressive, with expression" />
+        <question title="Rubato" answer="With some freedom of tempo to enhance musical expression" />
+    </category>
+     <category type="graphic" question="Select the matching card.">
+        <question image="sign_commontime" answer="common time" />
+        <question image="sign_cuttime" answer="cut time" />
+    </category>
+   <category type="graphic" question="Select the matching card.">
+        <question image="sign_commontime" answer="a symbol for 4/4" />
+        <question image="sign_cuttime" answer="a symbol for 2/2" />
+    </category>
+</questions>
