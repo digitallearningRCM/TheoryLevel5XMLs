@@ -13,4 +13,8 @@
         <question image="sign_breathmark" answer="false" />
         <question image="sign_commontime" answer="true" />
     </category>
+    <category type="graphicGraphic" question="Choose the correct graphic" image="Artboard5">
+        <question image="Artboard6" answer="false" />
+        <question image="Artboard7" answer="true" />
+    </category>
 </questions>
