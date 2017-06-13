@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <questions>
-    <question file="tempPic" answer1="per" answer2="1" />
-    <question file="tempPic2" answer1="maj" answer2="3" />
+    <question file="IN_2_A_A" answer1="maj" answer2="2" />
+    <question file="IN_2_A_D" answer1="maj" answer2="2" />
+    <question file="IN_2_A_H" answer1="maj" answer2="2" />
+    <question file="IN_2_Af_A" answer1="maj" answer2="2" />
+    <question file="IN_2_Af_D" answer1="maj" answer2="2" />
+    <question file="IN_2_Af_H" answer1="maj" answer2="2" />
+    <question file="IN_2_Bf_A" answer1="maj" answer2="2" />
+    <question file="IN_2_Bf_D" answer1="maj" answer2="2" />
+    <question file="IN_2_Bf_H" answer1="maj" answer2="2" />
+    <question file="IN_2_C_A" answer1="maj" answer2="2" />
+    <question file="IN_2_C_D" answer1="maj" answer2="2" />
+    <question file="IN_2_C_H" answer1="maj" answer2="2" />
+    <question file="IN_2_D_A" answer1="maj" answer2="2" />
+    <question file="IN_2_D_D" answer1="maj" answer2="2" />
+    <question file="IN_2_D_H" answer1="maj" answer2="2" />
+    <question file="IN_2_E_A" answer1="maj" answer2="2" />
+    <question file="IN_2_E_D" answer1="maj" answer2="2" />
+    <question file="IN_2_E_H" answer1="maj" answer2="2" />
+    <question file="IN_2_Ef_A" answer1="maj" answer2="2" />
+    <question file="IN_2_Ef_D" answer1="maj" answer2="2" />
+    <question file="IN_2_Ef_H" answer1="maj" answer2="2" />
+    <question file="IN_2_F_A" answer1="maj" answer2="2" />
+    <question file="IN_2_F_D" answer1="maj" answer2="2" />
+    <question file="IN_2_F_H" answer1="maj" answer2="2" />
+    <question file="IN_2_G_A" answer1="maj" answer2="2" />
+    <question file="IN_2_G_D" answer1="maj" answer2="2" />
+    <question file="IN_2_G_H" answer1="maj" answer2="2" />
 </questions>
