@@ -11,11 +11,55 @@
         <question title="Der Hölle Rache kocht in meinem Herzen" answer="Aria from an opera" />
         <question title="Over the Rainbow" answer="Solo song from a film" />
 </category>
-
-    
-    
-<category type="paragraph" question="select the correct paragraph." text="What type of work is usually sacred and based on a biblical story?">
+        
+<category type="paragraph" question="select the correct paragraph." text="Which genre is usually sacred and based on a biblical story?">
         <question text="Oratorio" answer="true" />
         <question text="Aria" answer="false" />
-            <question text="option" answer="false" />
- </category>
+        <question text="Opera" answer="false" />
+        <question text="Solo song" answer="false" />
+        <question text="Chorus" answer="false" />
+</category>
+        
+<category type="paragraph" question="select the correct paragraph." text="Which genre is  written for four voices (soprano, alto tenor and bass)?">
+        <question text="Oratorio" answer="false" />
+        <question text="Aria" answer="false" />
+        <question text="Opera" answer="false" />
+        <question text="Solo song" answer="false" />
+        <question text="Chorus" answer="true" />
+</category>
+
+<category type="paragraph" question="select the correct paragraph." text="Which genre is performed in a concert setting, without costumes, staging or scenery?">
+        <question text="Oratorio" answer="true" />
+        <question text="Aria" answer="false" />
+        <question text="Opera" answer="false" />
+        <question text="Solo song" answer="false" />
+        <question text="Chorus" answer="false" />
+</category>
+        
+<category type="paragraph" question="select the correct paragraph." text="Which genre is a play set to music where secenery, costumes, and lighting are combined with the music to tell the story?">
+        <question text="Oratorio" answer="false" />
+        <question text="Aria" answer="false" />
+        <question text="Opera" answer="true" />
+        <question text="Solo song" answer="false" />
+        <question text="Chorus" answer="false" />
+</category>
+        
+<category type="paragraph" question="select the correct paragraph." text="Which genre is a solo song allowing the character to express his or her feelings and emotions?">
+        <question text="Oratorio" answer="false" />
+        <question text="Aria" answer="false" />
+        <question text="Opera" answer="true" />
+        <question text="Chorus" answer="false" />
+</category>
+        
+ <category type="paragraph" question="select the correct paragraph." text="Which composition is chacharacterised by a verse-chorus structure?">
+        <question text="Oratorio" answer="false" />
+        <question text="Aria" answer="false" />
+        <question text="Opera" answer="false" />
+        <question text="Chorus" answer="true" />
+</category>
+        
+<category type="text" question="Select the work the piece belongs to.">
+        <question title="Queen of the Night Aria" answer="Die Zauberflöte" />
+        <question title="Over the Rainbow" answer="Aria from an opera" />
+        <question title="Hallelujah chorus" answer="Messiah" />
+</category>
