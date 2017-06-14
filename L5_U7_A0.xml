@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
-    <category type="paragraph" question="select the correct paragraph." text="Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui.">
-        <question text="Donec ullamcorper nulla non metus auctor fringilla. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus." answer="true" />
-        <question text="Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla. " answer="false" />
-    </category>
-</questions>
+<category type="text" question="Select the composer.">
+        <question title="Hallelujah Chorus" answer="Hallelujah Chorus" />
+        <question title="Der Hölle Rache kocht in meinem Herzen" answer="Wolfgang Amadeus Mozart" />
+        <question title="Over the Rainbow" answer="Harold Arlen" />
+</category>
+    
+<category type="text" question="Select the genre.">
+        <question title="Hallelujah Chorus" answer="Chorus from an oratorio" />
+        <question title="Der Hölle Rache kocht in meinem Herzen" answer="Aria from an opera" />
+        <question title="Over the Rainbow" answer="Solo song from a film" />
+</category>
+
+    
+    
+<category type="paragraph" question="select the correct paragraph." text="What type of work is usually sacred and based on a biblical story?">
+        <question text="Oratorio" answer="true" />
+        <question text="Aria" answer="false" />
+            <question text="option" answer="false" />
+ </category>
