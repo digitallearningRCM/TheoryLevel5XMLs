@@ -27,13 +27,13 @@
         <question text="Solo song from a film" answer="false" />
 </category>           
 
-<category type="paragraph" question="" text="Who composed “Over the Rainbow”?">
+<category type="paragraph" question="" text="The genre of “Over the Rainbow” is ...">
         <question text="Chorus from an oratorio" answer="false" />
         <question text="Aria from an opera" answer="false" />
         <question text="Solo song from a film" answer="true" />
 </category>  
         
-<category type="paragraph" question="" text="Who composed “Der Hölle Rache kocht in meinem Herzen”?">
+<category type="paragraph" question="" text="The genre of “Der Hölle Rache kocht in meinem Herzen”is ...">
       <question text="Chorus from an oratorio" answer="false" />
         <question text="Aria from an opera" answer="true" />
         <question text="Solo song from a film" answer="false" />
