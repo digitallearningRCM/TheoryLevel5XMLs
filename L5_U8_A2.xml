@@ -26,14 +26,14 @@
     </category>    
     <category type="graphic" question="Select the name of the sign.">
         <question image="sign_repeat" answer="Repeat sign" />
-        <question image="sign_tenuto" answer="Tenuto" />
+        <question image="sign_tenutoNOTE" answer="Tenuto" />
         <question image="sign_fortissimo" answer="Fortisimmo" />
         <question image="sign_pianissimo" answer="Pianissimo" />
         <question image="sign_pedal_bracket" answer="Damper pedal" />
     </category>
     <category type="graphic" question="Select the description of the sign.">
         <question image="sign_repeat" answer="Repeat the music within the double bar lines" />
-        <question image="sign_tenuto" answer="Held, sustained" />
+        <question image="sign_tenutoNOTE" answer="Held, sustained" />
         <question image="sign_fortissimo" answer="Very loud" />
         <question image="sign_pianissimo" answer="Very softly" />
         <question image="sign_pedal_bracket" answer="Use the damper pedal (on the piano)" />
