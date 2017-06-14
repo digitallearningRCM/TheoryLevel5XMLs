@@ -4,19 +4,19 @@
 <category type="paragraph" question="" text="Who composed the Hallelujah Chorus?">
         <question text="George Frideric Handel" answer="true" />
         <question text="Wolfgang Amadeus Mozart" answer="false" />
-        <question text="George Frideric Handel" answer="false" />
+        <question text="Harold Arlen" answer="false" />
 </category>           
 
 <category type="paragraph" question="" text="Who composed “Over the Rainbow”?">
         <question text="George Frideric Handel" answer="false" />
         <question text="Wolfgang Amadeus Mozart" answer="false" />
-        <question text="George Frideric Handel" answer="true" />
+        <question text="Harold Arlen" answer="true" />
 </category>  
         
 <category type="paragraph" question="" text="Who composed “Der Hölle Rache kocht in meinem Herzen”?">
         <question text="George Frideric Handel" answer="false" />
         <question text="Wolfgang Amadeus Mozart" answer="true" />
-        <question text="George Frideric Handel" answer="false" />
+        <question text="Harold Arlen" answer="false" />
 </category>  
 
 
