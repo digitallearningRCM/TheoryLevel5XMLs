@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <category type="paragraph" question="select the correct paragraph." text="Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec ullamcorper nulla non metus auctor fringilla. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui.">
+        <question text="Donec ullamcorper nulla non metus auctor fringilla. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus." answer="true" />
+        <question text="Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec ullamcorper nulla non metus auctor fringilla. " answer="false" />
+    </category>
+</questions>
