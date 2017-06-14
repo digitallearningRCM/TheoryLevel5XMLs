@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <activities>
-    <activity icon="planet-history" title="HISTORY MCQ" description="missing text"  xml="L5_U7_A0.xml"/>
+    <activity icon="planet-history" title="HISTORY MCQ" description="Tap the card of your choice"  xml="L5_U7_A0.xml"/>
+    <activity icon="planet-history" title="HISTORY MCQ" description="Tap the card of your choice"  xml="L5_U7_A1.xml"/>
 </activities>
