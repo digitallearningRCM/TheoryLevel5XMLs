@@ -12,7 +12,7 @@
         <question title="Over the Rainbow" answer="Solo song from a film" />
 </category>
         
-<category type="paragraph" question="select the correct paragraph." text="Which genre is usually sacred and based on a biblical story?">
+<category type="paragraph" question="Select the correct genre." text="Which genre is usually sacred and based on a biblical story?">
         <question text="Oratorio" answer="true" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
@@ -20,7 +20,7 @@
         <question text="Chorus" answer="false" />
 </category>
         
-<category type="paragraph" question="select the correct paragraph." text="Which genre is  written for four voices (soprano, alto tenor and bass)?">
+<category type="paragraph" question="select the correct genre." text="Which genre is  written for four voices (soprano, alto tenor and bass)?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
@@ -28,7 +28,7 @@
         <question text="Chorus" answer="true" />
 </category>
 
-<category type="paragraph" question="select the correct paragraph." text="Which genre is performed in a concert setting, without costumes, staging or scenery?">
+<category type="paragraph" question="select the correct genre." text="Which genre is performed in a concert setting, without costumes, staging or scenery?">
         <question text="Oratorio" answer="true" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
@@ -36,7 +36,7 @@
         <question text="Chorus" answer="false" />
 </category>
         
-<category type="paragraph" question="select the correct paragraph." text="Which genre is a play set to music where secenery, costumes, and lighting are combined with the music to tell the story?">
+<category type="paragraph" question="select the correct genre." text="Which genre is a play set to music where secenery, costumes, and lighting are combined with the music to tell the story?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="true" />
@@ -44,14 +44,14 @@
         <question text="Chorus" answer="false" />
 </category>
         
-<category type="paragraph" question="select the correct paragraph." text="Which genre is a solo song allowing the character to express his or her feelings and emotions?">
+<category type="paragraph" question="select the correct genre." text="Which genre is a solo song allowing the character to express his or her feelings and emotions?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="true" />
         <question text="Chorus" answer="false" />
 </category>
         
- <category type="paragraph" question="select the correct paragraph." text="Which composition is chacharacterised by a verse-chorus structure?">
+ <category type="paragraph" question="Select the correct genre." text="Which genre is chacharacterised by a verse-chorus structure?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
