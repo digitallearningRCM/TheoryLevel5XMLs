@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <activities>
-    <activity icon="planet-history" title="TESTComposer and genre" description="Tap the card of your choice"  xml="L5_U7_A0"/>
+    <activity icon="planet-history" title="Composer and genre" description="Tap the card of your choice"  xml="L5_U7_A0"/>
     <activity icon="planet-history" title="Performing forces and relationship between text and music" description="Tap the card of your choice"  xml="L5_U7_A1"/>
 </activities>
