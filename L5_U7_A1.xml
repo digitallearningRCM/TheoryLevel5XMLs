@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
 
- <category type="text" question="Select the performing forces.">
-        <question title="Hallelujah Chorus" answer="SATB chorus accompanied by orchestra" />
-        <question title="Der Hölle Rache kocht in meinem Herzen" answer="Coloratura soprano accompanied by orchestra" />
-        <question title="Over the Rainbow" answer="Solo voice and orchestra" />
+  
+ <category type="paragraph" question="Select the correct terms." text="In the “Hallelujah Chorus”, the performing forces are">
+        <question text="SATB chorus accompanied by orchestra" answer="true" />
+        <question text="Coloratura soprano accompanied by orchestra" answer="false" />
+        <question text="Solo voice and orchestra" answer="false" />
 </category>
-    
-       
+
+  <category type="paragraph" question="Select the correct terms." text="In “Der Hölle Rache kocht in meinem Herzen”, the performing forces are">
+        <question text="SATB chorus accompanied by orchestra" answer="false" />
+        <question text="Coloratura soprano accompanied by orchestra" answer="true" />
+        <question text="Solo voice and orchestra" answer="false" />
+</category>
+ 
+<category type="paragraph" question="Select the correct terms." text="In “Over the Rainbow”, the performing forces are">
+        <question text="SATB chorus accompanied by orchestra" answer="false" />
+        <question text="Coloratura soprano accompanied by orchestra" answer="false" />
+        <question text="Solo voice and orchestra" answer="true" />
+</category>
+ 
+ 
 <category type="paragraph" question="Select the correct terms." text="In the “Hallelujah Chorus”, the words “for ever and ever” are repeated many times. What is this an example of?">
         <question text="Word painting" answer="true" />
         <question text="Vocal virtuosity" answer="false" />
