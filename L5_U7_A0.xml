@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
 
-<category type="paragraph" question="Select the correct genre." text="Who composed the Hallelujah Chorus?">
+<category type="paragraph" question="" text="Who composed the Hallelujah Chorus?">
         <question text="George Frideric Handel" answer="true" />
         <question text="Wolfgang Amadeus Mozart" answer="false" />
         <question text="George Frideric Handel" answer="false" />
 </category>           
 
-<category type="paragraph" question="Select the correct genre." text="Who composed “Over the Rainbow”?">
+<category type="paragraph" question="" text="Who composed “Over the Rainbow”?">
         <question text="George Frideric Handel" answer="false" />
         <question text="Wolfgang Amadeus Mozart" answer="false" />
         <question text="George Frideric Handel" answer="true" />
 </category>  
         
-<category type="paragraph" question="Select the correct genre." text="Who composed “Der Hölle Rache kocht in meinem Herzen”?">
+<category type="paragraph" question="" text="Who composed “Der Hölle Rache kocht in meinem Herzen”?">
         <question text="George Frideric Handel" answer="false" />
         <question text="Wolfgang Amadeus Mozart" answer="true" />
         <question text="George Frideric Handel" answer="false" />
@@ -21,19 +21,19 @@
 
 
 
-<category type="paragraph" question="Select the correct genre." text="The genre of the Hallelujah Chorus is...">
+<category type="paragraph" question="" text="The genre of the Hallelujah Chorus is...">
         <question text="Chorus from an oratorio" answer="true" />
         <question text="Aria from an opera" answer="false" />
         <question text="Solo song from a film" answer="false" />
 </category>           
 
-<category type="paragraph" question="Select the correct genre." text="Who composed “Over the Rainbow”?">
+<category type="paragraph" question="" text="Who composed “Over the Rainbow”?">
         <question text="Chorus from an oratorio" answer="false" />
         <question text="Aria from an opera" answer="false" />
         <question text="Solo song from a film" answer="true" />
 </category>  
         
-<category type="paragraph" question="Select the correct genre." text="Who composed “Der Hölle Rache kocht in meinem Herzen”?">
+<category type="paragraph" question="" text="Who composed “Der Hölle Rache kocht in meinem Herzen”?">
       <question text="Chorus from an oratorio" answer="false" />
         <question text="Aria from an opera" answer="true" />
         <question text="Solo song from a film" answer="false" />
@@ -41,48 +41,39 @@
         
    
         
-   <category type="text" question="Select the work the piece belongs to.">
-        <question title="Queen of the Night Aria" answer="Die Zauberflöte" />
-        <question title="Over the Rainbow" answer="Wizard of Oz" />
-        <question title="Hallelujah chorus" answer="Messiah" />
-</category>
+
         
         
- <category type="paragraph" question="Select the correct genre." text="“Der Hölle Rache kocht in meinem Herzen” is part of ...">
+ <category type="paragraph" question="" text="“Der Hölle Rache kocht in meinem Herzen” is part of ...">
         <question text="The Wizard of Oz" answer="false" />
         <question text="The Magic Flute" answer="true" />
         <question text="Messiah" answer="false" />
 </category>       
         
- <category type="paragraph" question="Select the correct genre." text="“Somewhere Over the Rainbow” is part of ...">
+ <category type="paragraph" question="" text="“Somewhere Over the Rainbow” is part of ...">
         <question text="The Wizard of Oz" answer="true" />
         <question text="The Magic Flute" answer="false" />
         <question text="Messiah" answer="false" />
 </category>               
 
- <category type="paragraph" question="Select the correct genre." text="The “Hallelujah Chorus” is part of ...">
+ <category type="paragraph" question="" text="The “Hallelujah Chorus” is part of ...">
         <question text="The Wizard of Oz" answer="false" />
         <question text="The Magic Flute" answer="false" />
         <question text="Messiah" answer="true" />
 </category> 
         
         
- <category type="paragraph" question="Select the correct genre." text="“Der Hölle Rache kocht in meinem Herzen” is part of ...">
+ <category type="paragraph" question="" text="“Der Hölle Rache kocht in meinem Herzen” is part of ...">
         <question text="The Wizard of Oz" answer="false" />
         <question text="The Magic Flute" answer="true" />
         <question text="Messiah" answer="false" />
 </category>       
         
         
-        
-<category type="text" question="Select the genre.">
-        <question title="Hallelujah Chorus" answer="Chorus from an oratorio" />
-        <question title="Der Hölle Rache kocht in meinem Herzen" answer="Aria from an opera" />
-        <question title="Over the Rainbow" answer="Solo song from a film" />
-</category>
+       
         
     
-<category type="paragraph" question="Select the correct genre." text="Which genre is usually sacred and based on a biblical story?">
+<category type="paragraph" question="" text="Which genre is usually sacred and based on a biblical story?">
         <question text="Oratorio" answer="true" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
@@ -90,7 +81,7 @@
         <question text="Chorus" answer="false" />
 </category>
         
-<category type="paragraph" question="select the correct genre." text="Which genre is  written for four voices (soprano, alto tenor and bass)?">
+<category type="paragraph" question="" text="Which genre is  written for four voices (soprano, alto tenor and bass)?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
@@ -98,7 +89,7 @@
         <question text="Chorus" answer="true" />
 </category>
 
-<category type="paragraph" question="select the correct genre." text="Which genre is performed in a concert setting, without costumes, staging or scenery?">
+<category type="paragraph" question="" text="Which genre is performed in a concert setting, without costumes, staging or scenery?">
         <question text="Oratorio" answer="true" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
@@ -106,7 +97,7 @@
         <question text="Chorus" answer="false" />
 </category>
         
-<category type="paragraph" question="select the correct genre." text="Which genre is a play set to music where scenery, costumes, and lighting are combined with the music to tell the story?">
+<category type="paragraph" question="" text="Which genre is a play set to music where scenery, costumes, and lighting are combined with the music to tell the story?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="true" />
@@ -114,14 +105,14 @@
         <question text="Chorus" answer="false" />
 </category>
         
-<category type="paragraph" question="select the correct genre." text="Which genre allows the character to express his or her feelings and emotions?">
+<category type="paragraph" question="" text="Which genre allows the character to express his or her feelings and emotions?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="true" />
         <question text="Chorus" answer="false" />
 </category>
         
- <category type="paragraph" question="Select the correct genre." text="Which genre is chacharacterised by a verse-chorus structure?">
+ <category type="paragraph" question="" text="Which genre is chacharacterised by a verse-chorus structure?">
         <question text="Oratorio" answer="false" />
         <question text="Aria" answer="false" />
         <question text="Opera" answer="false" />
