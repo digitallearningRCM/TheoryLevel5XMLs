@@ -2,8 +2,8 @@
 
 <activities>
     <activity icon="planet-notation" title="LEDGER LINES ON THE TREBLE STAFF (PICKER)" description="Select your answer from the picker below." />
-    <activity icon="planet-notation" title="LEDGER LINES ON THE TREBLE STAFF (STAFF)" description="Drag the note to the correct pitch, then click ✓." />
     <activity icon="planet-notation" title="LEDGER LINES ON THE BASS STAFF (PICKER)" description="Select your answer from the picker below." />  
+    <activity icon="planet-notation" title="LEDGER LINES ON THE TREBLE STAFF (STAFF)" description="Drag the note to the correct pitch, then click ✓." />
     <activity icon="planet-notation" title="LEDGER LINES ON THE BASS STAFF (STAFF)" description="Drag the note to the correct pitch, then click ✓." />
     <activity icon="planet-notation" title="ENHARMONIC EQUIVALENTS" description="Drag the note to the correct pitch, tap to add accidentals, then click ✓." />
     <activity icon="planet-notation" title="TRANSPOSITION UP OR DOWN ONE OCTAVE " description="Drag the note to the correct pitch, then click ✓." />
