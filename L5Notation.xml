@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <activities>
-    <activity icon="planet-notation" title="NAME NOTES ABOVE OR BELOW THE STAFF IN THE TREBLE CLEF" description="Select your answer from the picker below." />
-    <activity icon="planet-notation" title="NAME NOTES ABOVE OR BELOW THE STAFF IN THE BASS CLEF" description="Select your answer from the picker below." />
-    <activity icon="planet-notation" title="WRITE NOTES ABOVE OR BELOW THE STAFF IN THE TREBLE CLEF" description="Drag the note to the correct pitch, then click ✓." />
-    <activity icon="planet-notation" title="WRITE NOTES ABOVE OR BELOW THE STAFF IN THE BASS CLEF" description="Drag the note to the correct pitch, then click ✓." />
-    <activity icon="planet-notation" title="WRITE ENHARMONIC EQUIVALENTS" description="Drag the note to the correct pitch, tap to add accidentals, then click ✓." />
-    <activity icon="planet-notation" title="TRANSPOSE A NOTE" description="Drag the note to the correct pitch, then click ✓." />
-    <activity icon="planet-notation" title="REWRITE A NOTE AT THE SAME PITCH IN A DIFFERENT CLEF" description="Drag the note to the correct pitch, then click ✓." />
+    <activity icon="planet-notation" title="LEDGER LINES ON THE TREBLE STAFF (PICKER)" description="Select your answer from the picker below." />
+    <activity icon="planet-notation" title="LEDGER LINES ON THE TREBLE STAFF (STAFF)" description="Drag the note to the correct pitch, then click ✓." />
+    <activity icon="planet-notation" title="LEDGER LINES ON THE BASS STAFF (PICKER)" description="Select your answer from the picker below." />  
+    <activity icon="planet-notation" title="LEDGER LINES ON THE BASS STAFF (STAFF)" description="Drag the note to the correct pitch, then click ✓." />
+    <activity icon="planet-notation" title="ENHARMONIC EQUIVALENTS" description="Drag the note to the correct pitch, tap to add accidentals, then click ✓." />
+    <activity icon="planet-notation" title="TRANSPOSITION UP OR DOWN ONE OCTAVE " description="Drag the note to the correct pitch, then click ✓." />
+    <activity icon="planet-notation" title="REWRITE SAME PITCH DIFFERENT CLEF" description="Drag the note to the correct pitch, then click ✓." />
 </activities>
