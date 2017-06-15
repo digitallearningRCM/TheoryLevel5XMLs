@@ -1,68 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <questions>
-
-  
  <category type="paragraph" question="" text="In the “Hallelujah Chorus”, the performing forces are">
         <question text="SATB chorus accompanied by orchestra" answer="true" />
         <question text="Coloratura soprano accompanied by orchestra" answer="false" />
         <question text="Solo voice and orchestra" answer="false" />
 </category>
-
   <category type="paragraph" question="" text="In “Der Hölle Rache kocht in meinem Herzen”, the performing forces are">
         <question text="SATB chorus accompanied by orchestra" answer="false" />
         <question text="Coloratura soprano accompanied by orchestra" answer="true" />
         <question text="Solo voice and orchestra" answer="false" />
 </category>
- 
 <category type="paragraph" question="" text="In “Over the Rainbow”, the performing forces are">
         <question text="SATB chorus accompanied by orchestra" answer="false" />
         <question text="Coloratura soprano accompanied by orchestra" answer="false" />
         <question text="Solo voice and orchestra" answer="true" />
 </category>
- 
- 
 <category type="paragraph" question="" text="In the “Hallelujah Chorus”, the words “for ever and ever” are repeated many times. What is this an example of?">
         <question text="Word painting" answer="true" />
         <question text="Vocal virtuosity" answer="false" />
         <question text="Melancholic atmosphere" answer="false" />
 </category>
-
 <category type="paragraph" question="" text="In the “Hallelujah Chorus”, the words “the kingdom of this world” are accompanied by the melody descending and the dynamic level softening. What is this an example of?">
         <question text="Word painting" answer="true" />
         <question text="Vocal virtuosity" answer="false" />
         <question text="Melancholic atmosphere" answer="false" />
 </category>
- 
 <category type="paragraph" question="" text="In the “Hallelujah Chorus”, the words “the kingdom of our Lord” are accompanied by an explosion of sound. What is this an example of?">
         <question text="Word painting" answer="true" />
         <question text="Vocal virtuosity" answer="false" />
         <question text="Melancholic atmosphere" answer="false" />
 </category>  
-  
-  
-<category type="paragraph" question="" text="High notes reaching beyond the typical soprano range is an examples of:">
+<category type="paragraph" question="" text="High notes reaching beyond the typical soprano range is an example of:">
         <question text="Word painting" answer="false" />
         <question text="Vocal virtuosity" answer="true" />
         <question text="Melancholic atmosphere" answer="false" />
 </category>
-        
-<category type="paragraph" question="" text="Ascends to a high F interlaced with the cutting phrase “you will nevermore be my daughter” created the effect of: ">
+<category type="paragraph" question="" text="In “Der Hölle Rache kocht in meinem Herzen”, an ascent to high F interlaced with the cutting phrase “you will nevermore be my daughter” creates the effect of: ">
         <question text="The infinite" answer="false" />
         <question text="Rage" answer="true" />
         <question text="Longing" answer="false" />
 </category>
-
 <category type="paragraph" question="" text="In which work does the octave leap from tonic to tonic create a feeling of longing and expansiveness?">
-        <question text="Queen of the night Aria" answer="false" />
-        <question text="Over the rainbow" answer="true" />
-        <question text="Hallelujah chorus" answer="false" />
+        <question text="Der Hölle Rache kocht in meinem Herzen” answer="false" />
+        <question text="Over the Rainbow" answer="true" />
+        <question text="Hallelujah Chorus" answer="false" />
 </category>  
-  
  <category type="paragraph" question="" text="An octave leap from tonic to tonic in a first measure, followed by an unwining descent in the following 7 measures is used to create:">
         <question text="a dramatic an menacing tone" answer="false" />
         <question text="a musical rainbow" answer="true" />
         <question text="a sense of triumph and joy" answer="false" />
 </category>  
-  
- 
 </questions>
