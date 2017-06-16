@@ -16,7 +16,7 @@
     </category>
     <category type="graphic" question="Select the description of the sign.">
         <question image="sign_ENDOFPIECE" answer="End of piece" />
-        <question image="sign_commontime" answer="A symbol for $E " />
+        <question image="sign_commontime" answer="A symbol for $E$ " />
         <question image="sign_fermata" answer="Hold the note or rest longer" />
     </category>
     <category type="graphic" question="Select the name of the sign.">
