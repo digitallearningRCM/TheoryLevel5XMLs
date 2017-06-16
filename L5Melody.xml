@@ -2,5 +2,5 @@
 
 <activities>
     <activity icon="planet-melody" title="Sort Bars" description="Place the measures on staves." xmlFile="sortXML" />
-    <activity icon="planet-melody" title="Test new assets" description="Place the measures on staves." xmlFile="melody-test" />
+    <activity icon="planet-melody" title="Composing an answer phrase" description="Given the question phrase, complete the answer by dragging the correct measures to the staff." xmlFile="L5_U6_A1" />
 </activities>
