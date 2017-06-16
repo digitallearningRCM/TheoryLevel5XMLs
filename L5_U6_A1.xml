@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question staff1="L4_U8_S1" musicFile="L4_U8_Q1">
+    <option image="L4_U8_Q1_0" location="0" preset="yes" />
+    <option image="L4_U8_Q1_1" location="1" />
+    <option image="L4_U8_Q1_2" location="2" />
+    <option image="L4_U8_Q1_3" location="3" />
+    <option image="L4_U8_Q1_4" location="4" />
+    <option image="L4_U8_Q1_5" location="5" />
+    <option image="L4_U8_Q1_6" location="6" />
+    <option image="L4_U8_Q1_7" location="7" />
+    <option image="L4_U8_Q1_8" location="8"></option>
+  </question>
+  <question staff1="L4_U8_S2" musicFile="L4_U8_Q2">
+    <option image="L4_U8_Q2_0" location="0" preset="yes" />
+    <option image="L4_U8_Q2_1" location="1" />
+    <option image="L4_U8_Q2_2" location="2" />
+    <option image="L4_U8_Q2_3" location="3" />
+    <option image="L4_U8_Q2_4" location="4" />
+    <option image="L4_U8_Q2_5" location="5" />
+    <option image="L4_U8_Q2_6" location="6" />
+    <option image="L4_U8_Q2_7" location="7" />
+    <option image="L4_U8_Q2_8" location="8"></option>
+  </question>
+  <question staff1="L4_U8_S3" musicFile="L4_U8_Q3">
+    <option image="L4_U8_Q3_0" location="0" preset="yes" />
+    <option image="L4_U8_Q3_1" location="1" />
+    <option image="L4_U8_Q3_2" location="2" />
+    <option image="L4_U8_Q3_3" location="3" />
+    <option image="L4_U8_Q3_4" location="4" />
+    <option image="L4_U8_Q3_5" location="5" />
+    <option image="L4_U8_Q3_6" location="6" />
+    <option image="L4_U8_Q3_7" location="7" />
+    <option image="L4_U8_Q3_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S4" musicFile="L4_U8_Q4">
+    <option image="L4_U8_Q4_0" location="0" preset="yes" />
+    <option image="L4_U8_Q4_1" location="1" />
+    <option image="L4_U8_Q4_2" location="2" />
+    <option image="L4_U8_Q4_3" location="3" />
+    <option image="L4_U8_Q4_4" location="4" />
+    <option image="L4_U8_Q4_5" location="5" />
+    <option image="L4_U8_Q4_6" location="6" />
+    <option image="L4_U8_Q4_7" location="7" />
+    <option image="L4_U8_Q4_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S5" musicFile="L4_U8_Q5">
+    <option image="L4_U8_Q5_0" location="0" preset="yes" />
+    <option image="L4_U8_Q5_1" location="1" />
+    <option image="L4_U8_Q5_2" location="2" />
+    <option image="L4_U8_Q5_3" location="3" />
+    <option image="L4_U8_Q5_4" location="4" />
+    <option image="L4_U8_Q5_5" location="5" />
+    <option image="L4_U8_Q5_6" location="6" />
+    <option image="L4_U8_Q5_7" location="7" />
+    <option image="L4_U8_Q5_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S6" musicFile="L4_U8_Q6">
+    <option image="L4_U8_Q6_0" location="0" preset="yes" />
+    <option image="L4_U8_Q6_1" location="1" />
+    <option image="L4_U8_Q6_2" location="2" />
+    <option image="L4_U8_Q6_3" location="3" />
+    <option image="L4_U8_Q6_4" location="4" />
+    <option image="L4_U8_Q6_5" location="5" />
+    <option image="L4_U8_Q6_6" location="6" />
+    <option image="L4_U8_Q6_7" location="7" />
+    <option image="L4_U8_Q6_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S7" musicFile="L4_U8_Q7">
+    <option image="L4_U8_Q7_0" location="0" preset="yes" />
+    <option image="L4_U8_Q7_1" location="1" />
+    <option image="L4_U8_Q7_2" location="2" />
+    <option image="L4_U8_Q7_3" location="3" />
+    <option image="L4_U8_Q7_4" location="4" />
+    <option image="L4_U8_Q7_5" location="5" />
+    <option image="L4_U8_Q7_6" location="6" />
+    <option image="L4_U8_Q7_7" location="7" />
+    <option image="L4_U8_Q7_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S8" musicFile="L4_U8_Q8">
+    <option image="L4_U8_Q8_0" location="0" preset="yes" />
+    <option image="L4_U8_Q8_1" location="1" />
+    <option image="L4_U8_Q8_2" location="2" />
+    <option image="L4_U8_Q8_3" location="3" />
+    <option image="L4_U8_Q8_4" location="4" />
+    <option image="L4_U8_Q8_5" location="5" />
+    <option image="L4_U8_Q8_6" location="6" />
+    <option image="L4_U8_Q8_7" location="7" />
+    <option image="L4_U8_Q8_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S9" musicFile="L4_U8_Q9">
+    <option image="L4_U8_Q9_0" location="0" preset="yes" />
+    <option image="L4_U8_Q9_1" location="1" />
+    <option image="L4_U8_Q9_2" location="2" />
+    <option image="L4_U8_Q9_3" location="3" />
+    <option image="L4_U8_Q9_4" location="4" />
+    <option image="L4_U8_Q9_5" location="5" />
+    <option image="L4_U8_Q9_6" location="6" />
+    <option image="L4_U8_Q9_7" location="7" />
+    <option image="L4_U8_Q9_8" location="8" />
+  </question>
+  <question staff1="L4_U8_S10" musicFile="L4_U8_Q10">
+    <option image="L4_U8_Q10_0" location="0" preset="yes" />
+    <option image="L4_U8_Q10_1" location="1" />
+    <option image="L4_U8_Q10_2" location="2" />
+    <option image="L4_U8_Q10_3" location="3" />
+    <option image="L4_U8_Q10_4" location="4" />
+    <option image="L4_U8_Q10_5" location="5" />
+    <option image="L4_U8_Q10_6" location="6" />
+    <option image="L4_U8_Q10_7" location="7" />
+    <option image="L4_U8_Q10_8" location="8" />
+  </question>
+</questions>
