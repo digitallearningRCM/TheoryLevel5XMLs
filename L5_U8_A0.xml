@@ -31,8 +31,7 @@
         <question title="Tranquillo" answer="Quiet, tranquil" />
         <question title="Espressivo" answer="Expressive, with expression" />
         <question title="Rubato" answer="With some freedom of tempo to enhance musical expression" />
-    </category
-         <questions>
+    </category>
      <category type="text" question="Select the description of the term.">
         <question title="Larghetto" answer="Fairly slow but not as slow as largo" />
         <question title="Largo" answer="Very slow" />
