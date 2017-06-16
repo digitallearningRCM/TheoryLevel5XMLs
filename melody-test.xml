@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+    <question staff1="IOS_L5_U6_A1_1_Q" staff2="IOS_L5_U6_A1_EQ" musicFile="L1_U8_Q1">
+        <option image="IOS_L5_U6_A1_1_A1" location="0" preset="yes" />
+        <option image="IOS_L5_U6_A1_1_A2" location="1" preset="yes" />
+        <option image="IOS_L5_U6_A1_1_A3" location="2" preset="yes" />
+        <option image="IOS_L5_U6_A1_1_A4" location="3" preset="yes" />
+        <option image="IOS_L5_U6_A1_1_A5" location="4" />
+        <option image="IOS_L5_U6_A1_1_A6" location="5" />
+        <option image="IOS_L5_U6_A1_1_A7" location="6" />
+        <option image="IOS_L5_U6_A1_1_A8" location="7" />
+        <option image="IOS_L5_U6_A1_1_A9" location="8" />
+        <option image="IOS_L5_U6_A1_1_A10" location="9" />
+        <option image="IOS_L5_U6_A1_1_A11" location="10" />
+        <option image="IOS_L5_U6_A1_1_A12" location="11" />
+    </question>
+    <question staff1="L1_U8_S2" musicFile="L1_U8_Q2">
+        <option image="L1_U8_Q2_0" location="0" preset="yes" />
+        <option image="L1_U8_Q2_1" location="1" />
+        <option image="L1_U8_Q2_2" location="2" />
+        <option image="L1_U8_Q2_3" location="3" />
+        <option image="L1_U8_Q2_4" location="4" />
+        <option image="L1_U8_Q2_5" location="5" />
+        <option image="L1_U8_Q2_6" location="6" />
+        <option image="L1_U8_Q2_7" location="7" />
+        <option image="L1_U8_Q2_8" location="8"></option>
+    </question>
+    <question staff1="L1_U8_S1" staff2="L1_U8_S1" musicFile="L1_U8_Q1">
+        <option image="L1_U8_Q1_0" location="0" preset="yes" />
+        <option image="L1_U8_Q1_1" location="1" />
+        <option image="L1_U8_Q1_2" location="2" />
+        <option image="L1_U8_Q1_3" location="3" />
+        <option image="L1_U8_Q1_4" location="4" />
+        <option image="L1_U8_Q1_5" location="5" />
+        <option image="L1_U8_Q1_6" location="6" />
+        <option image="L1_U8_Q1_7" location="7" />
+        <option image="L1_U8_Q1_8" location="8"></option>
+    </question>
+
+</questions>

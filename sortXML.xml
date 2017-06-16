@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <questions>
-    <question staff1="L1_U8_S1" musicFile="L1_U8_Q1">
+    <question staff1="L1_U8_S1" staff2="L1_U8_S1" musicFile="L1_U8_Q1">
         <option image="L1_U8_Q1_0" location="0" preset="yes" />
         <option image="L1_U8_Q1_1" location="1" />
         <option image="L1_U8_Q1_2" location="2" />
