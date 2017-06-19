@@ -1,8 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <questions>
   <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A3_1_Q">
     <question image="IOS_L5_U2_A3_1_A1" answer="true" />
-    <question image="IOS_L5_U2_A3_1_A2" answer="false"></question>
+    <question image="IOS_L5_U2_A3_1_A2" answer="false" />
+    </category>
     <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A3_2_Q">
       <question image="IOS_L5_U2_A3_2_A1" answer="true" />
       <question image="IOS_L5_U2_A3_2_A2" answer="false" />
@@ -51,5 +52,5 @@
       <question image="IOS_L5_U2_A3_13_A1" answer="true" />
       <question image="IOS_L5_U2_A3_13_A2" answer="false" />
     </category>
-  </category>
+  
 </questions>
