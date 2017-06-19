@@ -8,16 +8,65 @@
     <question image="IOS_L5_U2_A0_1_A5" answer="false" />
     <question image="IOS_L5_U2_A0_1_A6" answer="false" />
   </category>
-  <category type="graphicGraphic" question="Choose the correct sign" image="sign_commontime">
-    <question image="sign_breathmark" answer="false" />
-    <question image="sign_commontime" answer="true" />
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_2_Q1">
+    <question image="IOS_L5_U2_A0_2_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_2_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_2_A3" answer="true" />
+    <question image="IOS_L5_U2_A0_2_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_2_A5" answer="false" />
+    <question image="IOS_L5_U2_A0_2_A6" answer="false" />
   </category>
-  <category type="graphicGraphic" question="Choose the correct graphic" image="Artboard5">
-    <question image="Artboard6" answer="false" />
-    <question image="Artboard7" answer="true" />
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_3_Q1">
+    <question image="IOS_L5_U2_A0_3_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_3_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_3_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_3_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_3_A5" answer="true" />
+    <question image="IOS_L5_U2_A0_3_A6" answer="false"></question>
   </category>
-  <category type="graphicGraphic" question="Choose the correct graphic" image="Artboard8">
-    <question image="Artboard9" answer="false" />
-    <question image="Artboard10" answer="true" />
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_4_Q1">
+    <question image="IOS_L5_U2_A0_4_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_4_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_4_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_4_A4" answer="true" />
+    <question image="IOS_L5_U2_A0_4_A5" answer="false" />
+    <question image="IOS_L5_U2_A0_4_A6" answer="false" />
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_5_Q1">
+    <question image="IOS_L5_U2_A0_5_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_5_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_5_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_5_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_5_A5" answer="false" />
+    <question image="IOS_L5_U2_A0_5_A6" answer="true" />
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_6_Q1">
+    <question image="IOS_L5_U2_A0_6_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_6_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_6_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_6_A4" answer="true" />
+    <question image="IOS_L5_U2_A0_6_A5" answer="false" />
+    <question image="IOS_L5_U2_A0_6_A6" answer="false" />
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_7_Q1">
+    <question image="IOS_L5_U2_A0_7_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_7_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_7_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_7_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_7_A5" answer="true" />
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_8_Q1">
+    <question image="IOS_L5_U2_A0_8_A1" answer="true" />
+    <question image="IOS_L5_U2_A0_8_A2" answer="false" />
+    <question image="IOS_L5_U2_A0_8_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_8_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_8_A5" answer="false" />
+  </category>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_9_Q1">
+    <question image="IOS_L5_U2_A0_9_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_9_A2" answer="true" />
+    <question image="IOS_L5_U2_A0_9_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_9_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_9_A5" answer="false" />
   </category>
 </questions>
