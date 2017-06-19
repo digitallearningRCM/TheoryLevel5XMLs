@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_1_Q">
+    <question image="IOS_L5_U2_A5_1_A1" answer="true" />
+    <question image="IOS_L5_U2_A5_1_A2" answer="false"></question>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_2_Q">
+      <question image="IOS_L5_U2_A5_2_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_2_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_3_Q">
+      <question image="IOS_L5_U2_A5_3_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_3_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_4_Q">
+      <question image="IOS_L5_U2_A5_4_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_4_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_5_Q">
+      <question image="IOS_L5_U2_A5_5_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_5_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_6_Q">
+      <question image="IOS_L5_U2_A5_6_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_6_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_7_Q">
+      <question image="IOS_L5_U2_A5_7_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_7_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_8_Q">
+      <question image="IOS_L5_U2_A5_8_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_8_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_9_Q">
+      <question image="IOS_L5_U2_A5_9_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_9_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_10_Q">
+      <question image="IOS_L5_U2_A5_10_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_10_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_11_Q">
+      <question image="IOS_L5_U2_A5_11_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_11_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_12_Q">
+      <question image="IOS_L5_U2_A5_12_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_12_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_13_Q">
+      <question image="IOS_L5_U2_A5_13_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_13_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_14_Q">
+      <question image="IOS_L5_U2_A5_14_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_14_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_15_Q">
+      <question image="IOS_L5_U2_A5_15_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_15_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_16_Q">
+      <question image="IOS_L5_U2_A5_16_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_16_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_17_Q">
+      <question image="IOS_L5_U2_A5_17_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_17_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_18_Q">
+      <question image="IOS_L5_U2_A5_18_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_18_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_19_Q">
+      <question image="IOS_L5_U2_A5_19_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_19_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_20_Q">
+      <question image="IOS_L5_U2_A5_20_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_20_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_21_Q">
+      <question image="IOS_L5_U2_A5_21_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_21_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_22_Q">
+      <question image="IOS_L5_U2_A5_22_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_23_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_23_Q">
+      <question image="IOS_L5_U2_A5_23_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_23_A2" answer="false" />
+    </category>
+    <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_24_Q">
+      <question image="IOS_L5_U2_A5_24_A1" answer="true" />
+      <question image="IOS_L5_U2_A5_24_A2" answer="false" />
+    </category>
+  </category>
+</questions>
