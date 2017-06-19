@@ -4,7 +4,7 @@
         <question title="Allegretto" answer="Failry fast ( a little slower than allegro)" />
         <question title="Molto" answer="Much, very" />
         <question title="Poco" answer="Little" />
-        <question title="Prestp" answer="Very fast" />
+        <question title="Presto" answer="Very fast" />
         <question title="Rallentando (rall.)" answer="Slowing down" />
     </category>
     <category type="text" question="Select the description of the term.">
