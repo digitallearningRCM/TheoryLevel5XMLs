@@ -2,7 +2,8 @@
 <questions>
   <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_1_Q">
     <question image="IOS_L5_U2_A5_1_A1" answer="true" />
-    <question image="IOS_L5_U2_A5_1_A2" answer="false"></question>
+    <question image="IOS_L5_U2_A5_1_A2" answer="false" />
+    </category>
     <category type="graphicGraphic" question="Select the correct answer to complete the measure with rests." image="IOS_L5_U2_A5_2_Q">
       <question image="IOS_L5_U2_A5_2_A1" answer="true" />
       <question image="IOS_L5_U2_A5_2_A2" answer="false" />
@@ -95,5 +96,5 @@
       <question image="IOS_L5_U2_A5_24_A1" answer="true" />
       <question image="IOS_L5_U2_A5_24_A2" answer="false" />
     </category>
-  </category>
+  
 </questions>
