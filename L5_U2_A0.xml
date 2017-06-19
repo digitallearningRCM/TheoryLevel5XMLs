@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="graphicGraphic" question="Select the equal value." image="IOS_L5_U2_A0_1_Q1">
+    <question image="IOS_L5_U2_A0_1_A1" answer="false" />
+    <question image="IOS_L5_U2_A0_1_A2" answer="true" />
+    <question image="IOS_L5_U2_A0_1_A3" answer="false" />
+    <question image="IOS_L5_U2_A0_1_A4" answer="false" />
+    <question image="IOS_L5_U2_A0_1_A5" answer="false" />
+    <question image="IOS_L5_U2_A0_1_A6" answer="false" />
+  </category>
+  <category type="graphicGraphic" question="Choose the correct sign" image="sign_commontime">
+    <question image="sign_breathmark" answer="false" />
+    <question image="sign_commontime" answer="true" />
+  </category>
+  <category type="graphicGraphic" question="Choose the correct graphic" image="Artboard5">
+    <question image="Artboard6" answer="false" />
+    <question image="Artboard7" answer="true" />
+  </category>
+  <category type="graphicGraphic" question="Choose the correct graphic" image="Artboard8">
+    <question image="Artboard9" answer="false" />
+    <question image="Artboard10" answer="true" />
+  </category>
+</questions>
