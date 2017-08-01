@@ -2,11 +2,11 @@
 
 <activities>
     <activity icon="planet-rhythm" title="NOTE AND REST VALUES" description="Select the equal value." xml="L5_U2_A0" />
-    <activity icon="planet-rhythm" title="SIMPLE TIME SIGANTURES ($Q$ $Z$ $W$ $X$ $E$ $F$" description="Identify the time signature." xml="L5_U2_A1" />
-    <activity icon="planet-rhythm" title="SIMPLE AND COMPOUND TIME SIGNATURES ($Q$ $Z$ $A$ $W$ $X$ $S$ $E$ $F$ $D$ $R$)" description="Identify the time signature." xml="L5_U2_A2" />
-    <activity icon="planet-rhythm" title="RESTS IN SIMPLE DUPLE METERS ($Q$ $Z$ $A$)" description="Select the correct example to complete the measure with rests." xml="L5_U2_A3" />
-    <activity icon="planet-rhythm" title="RESTS IN SIMPLE QUADRUPLE METERS ($E$ $F$ $D$)" description="Select the correct example to complete the measure with rests." xml="L5_U2_A4" />
-    <activity icon="planet-rhythm" title="RESTS IN TRIPLE METERS ($W$ $X$ $S$)" description="Select the correct example to complete the measure with rests." xmlFile="L5_U2_A5"/>
-    <activity icon="planet-rhythm" title="RESTS IN COMPOUND DUPLE METER ($R$)" description="Select the correct example to complete the measure with rests." xmlFile="L5_U2_A6"/>
-    <activity icon="planet-rhythm" title="RESTS IN SIMPLE AND COMPOUND METERS" description="Select the correct example to complete the measure with rests." xmlFile="L5_U2_A7"/>
+    <activity icon="planet-rhythm" title="SIMPLE TIME SIGNATURES ($Q$ $Z$ $W$ $X$ $E$ $F$ )" description="Identify the time signature." xml="L5_U2_A1" />
+    <activity icon="planet-rhythm" title="SIMPLE AND COMPOUND TIME SIGNATURES ($Q$ $Z$ $A$ $W$ $X$ $S$ $E$ $F$ $D$ $R$ )" description="Identify the time signature." xml="L5_U2_A2" />
+    <activity icon="planet-rhythm" title="RESTS IN SIMPLE DUPLE METERS ($Q$ $Z$ $A$ )" description="Select the correct example to complete the measure with rests." xml="L5_U2_A3" />
+    <activity icon="planet-rhythm" title="RESTS IN SIMPLE QUADRUPLE METERS ($E$ $F$ $D$ )" description="Select the correct example to complete the measure with rests." xml="L5_U2_A4" />
+    <activity icon="planet-rhythm" title="RESTS IN TRIPLE METERS ($W$ $X$ $S$ )" description="Select the correct example to complete the measure with rests." xml="L5_U2_A5"/>
+    <activity icon="planet-rhythm" title="RESTS IN COMPOUND DUPLE METER ($R$ )" description="Select the correct example to complete the measure with rests." xml="L5_U2_A6"/>
+    <activity icon="planet-rhythm" title="RESTS IN SIMPLE AND COMPOUND METERS" description="Select the correct example to complete the measure with rests." xml="L5_U2_A7"/>
 </activities>
